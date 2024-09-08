@@ -1,4 +1,6 @@
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 <h1 align="center">Hi 👋, I'm Prashid Dilshan</h1>
+
 <h3 align="center">"SE Student | Innovating, Learning, and Developing Skills in Software Engineering"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashid-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="prashid-dilshan" /> </p>
