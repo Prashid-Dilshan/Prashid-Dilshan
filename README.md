@@ -37,7 +37,7 @@
 
 
 
-<h3 align="center">"SE Student | Innovating, Learning, and Developing Skills in Software Engineering"</h3>
+<h2 align="center">"SE Student | Innovating, Learning, and Developing Skills in Software Engineering"</h2>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashid-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="prashid-dilshan" /> </p>
