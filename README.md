@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 <h1 align="center">Hi 👋, I'm Prashid Dilshan</h1>
 
