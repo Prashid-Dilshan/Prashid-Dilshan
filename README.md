@@ -1,8 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<div text align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="205" height="205" />
-</div>
+
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -12,7 +10,7 @@
 <p align="center">
   <a href="http://jrohit.com.np" target="_blank">
         <p align="center">
-    <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    <img alt="Coding" width="300" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
@@ -26,6 +24,10 @@
 <h2 align="center">"SE Student | Innovating, Learning, and Developing Skills in Software Engineering"</h2>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+ <div text align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/T%20Rex.webp" alt="T Rex" width="150" height="150" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashid-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="prashid-dilshan" /> </p>
 
