@@ -53,7 +53,7 @@
   </a>
 
   <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="70" height="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="70" height="70" />
   </a>
 
   <a href="https://jrohit.com.np" target="_blank">
