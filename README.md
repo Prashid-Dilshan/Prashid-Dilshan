@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/jrohitofficial/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hellow👋, I'm Prashid Dilshan;&font=fira%20Code&center=true&width=640&height=45&color=20C20E&vCenter=true&pause=1000&size=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Prashid Dilshan;&font=fira%20Code&center=true&width=640&height=45&color=20C20E&vCenter=true&pause=1000&size=40" />
 </a>
 
 
