@@ -21,7 +21,7 @@
 </a>
 
 
-<h2 align="center">"SE Student | Innovating, Learning, and Developing Skills in Software Engineering"</h2>
+<h2 align="center">"S Student | Innovating, Learning, and Developing Skills in Software Engineering"</h2>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
