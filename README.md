@@ -45,7 +45,7 @@
 
 <h1></h1>
 <br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+<p align="center">🅰🅲🆃🅸</p>
  <p align="center">
 
   <a href="https://jrohit.com.np" target="_blank">
