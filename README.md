@@ -1,4 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
