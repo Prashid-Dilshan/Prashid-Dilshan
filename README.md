@@ -42,30 +42,7 @@
 <h1></h1>
 
 
-<h1></h1>
-<br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
 
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="70" height="70" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="70" height="70" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="70" height="70" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="70" height="70" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="70" height="70" />
-  </a>
- 
- </p>
 
 
 <h1></h1>
