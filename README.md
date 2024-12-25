@@ -4,11 +4,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)
-
-</div
 
 <p align="center">
   <a href="http://jrohit.com.np" target="_blank">
