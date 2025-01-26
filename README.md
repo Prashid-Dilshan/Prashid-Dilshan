@@ -33,16 +33,16 @@
 ## 🌐 **Connect With Me**
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="prashiddilshan0710@gmain.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
