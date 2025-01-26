@@ -7,32 +7,22 @@
 
 <div align="center">
   <a href="https://prashid.me" target="_blank">
-    <img alt="Coding" width="300" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="300" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/jrohitofficial/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Prashid+Dilshan;SE+Student+|+Front-End+Developer;Passionate+About+UI/UX+and+Coding!;&font=fira%20Code&center=true&width=640&height=45&color=20C20E&vCenter=true&pause=1000&size=40" />
-  </a>
-</div>
-
-<h2 align="center">🌟 "Innovating, Learning, and Developing Skills in Software Engineering" 🌟</h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prashid-dilshan&label=Profile%20Views&color=0e75b6&style=flat" alt="prashid-dilshan" /> </p>
 
 ---
+
 
 ## 🛠️ **Skills & Tools**
 
 ### **Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,flutter,dart,java,angular,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,angular,nextjs,nodejs,tailwind,bootstrap,vue,php,mysql" />
 </div>
 
-### **Tools & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs,tailwind,bootstrap,redux" />
+
+
 </div>
 
 ---
