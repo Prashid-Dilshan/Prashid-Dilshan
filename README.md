@@ -11,10 +11,13 @@
   </a>
 </div>
 
----
 
+<br>
+<br>
+<br>
+<br>
 
-## 🛠️ **Skills & Tools**
+## 🛠️ **Skills**
 
 ### **Languages & Frameworks**
 <div align="center">
@@ -27,7 +30,7 @@
 
 ---
 
-
+<br><br><br>
 
 
 ## 🌐 **Connect With Me**
