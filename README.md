@@ -36,9 +36,7 @@
 ## 🌐 **Connect With Me**
 
 <div align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
