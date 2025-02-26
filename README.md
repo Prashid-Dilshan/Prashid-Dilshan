@@ -22,7 +22,14 @@
 ### **Languages & Frameworks**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,angular,nextjs,nodejs,tailwind,bootstrap,vue,php,mysql" />
+
+<br>
+<br>
+<br>
+
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashid-Dilshan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
 </div>
+
 
 
 
@@ -47,6 +54,10 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+
+
+
 
 
 ---
