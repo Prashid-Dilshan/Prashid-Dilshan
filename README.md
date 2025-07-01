@@ -1,65 +1,71 @@
+<!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World Banner" width="100%" />
 </div>
 
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
+<br>
 
+<!-- Profile Introduction -->
+<h2 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Prashid Dilshan</span></h2>
+
+<p align="center">
+  🚀 AI Enthusiast | 👨‍💻 Front-End Developer | 🧠 Lifelong Learner <br>
+  Passionate about building intelligent applications and exploring the future of AI.
+</p>
+
+---
+
+
+
+## ⚒️ Tech Stack
+
+### 🧩 Languages, Frameworks & Databases
 <div align="center">
-  <a href="https://prashid.me" target="_blank">
-   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="300" />
-  </a>
-</div>
--->
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql," /><br><br>
 
-<br>
-<br>
-<br>
-<br>
-
-## 🛠️ **Skills**
-
-### **Languages & Frameworks**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,angular,nextjs,nodejs,tailwind,bootstrap,vue,php,mysql" />
-
-<br>
-<br>
-<br>
-
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashid-Dilshan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
-</div>
-
-
-
-
+  <!-- Custom Icons -->
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/logo.png" alt="ChromaDB" width="40" style="margin: 0 10px;" title="ChromaDB" />
+  <img src="https://assets-global.website-files.com/6436a7ac71675849993e1dcd/6436a7ac7167583af53e1e04_Pinecone%20logo.svg" alt="Pinecone" width="40" style="margin: 0 10px;" title="Pinecone DB" />
 </div>
 
 ---
 
-<br><br><br>
 
 
-## 🌐 **Connect With Me**
+## 📈 GitHub Stats
 
 <div align="center">
-
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashid-Dilshan&layout=compact&theme=react&border_radius=10&hide_border=false&langs_count=10&exclude_repo=github-readme-stats" width="48%" />
 </div>
 
 
 
+<br><br><br>
+## 🌐 Let's Connect
 
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Prashid-Dilshan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://prashid.me">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
+---
 
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
 ---
 
 
