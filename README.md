@@ -23,10 +23,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql," /><br><br>
 
-  <!-- Custom Icons -->
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/logo.png" alt="ChromaDB" width="40" style="margin: 0 10px;" title="ChromaDB" />
-  <img src="https://assets-global.website-files.com/6436a7ac71675849993e1dcd/6436a7ac7167583af53e1e04_Pinecone%20logo.svg" alt="Pinecone" width="40" style="margin: 0 10px;" title="Pinecone DB" />
-</div>
+
 
 ---
 
