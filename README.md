@@ -23,8 +23,9 @@
 ## ⚒️ Tech Stack
 ### 🧩 Languages, Frameworks & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql,tensorflow,sklearn" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql,tensorflow,sklearn,pytorch,numpy,pandas,matplotlib,jupyter" /><br><br>
 </div>
+
 
 
 
