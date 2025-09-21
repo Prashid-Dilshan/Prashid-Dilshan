@@ -1,3 +1,6 @@
+
+
+
 <!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World Banner" width="100%" />
@@ -18,10 +21,10 @@
 
 
 ## ⚒️ Tech Stack
-
 ### 🧩 Languages, Frameworks & Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql," /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,tailwind,bootstrap,mysql,tensorflow,sklearn" /><br><br>
+</div>
 
 
 
